@@ -34,6 +34,13 @@ I am Ritik Kumar. My main interest lies in Machine Learning and Data Science. I 
 ![](https://komarev.com/ghpvc/?username=ritikkumar55&color=ff69b4)
 
 
+
+
+
+
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ritikkumar55&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p> -->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ritikkumar55)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikkumar55&show_icons=true&locale=en&layout=compact" alt="ritikkumar55" /></p>
+<br><br>
