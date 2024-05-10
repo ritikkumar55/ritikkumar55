@@ -27,7 +27,7 @@ I am Ritik Kumar. My main interest lies in Machine Learning and Data Science. I 
 
 - 🔭 I’m currently working on a Machine Learning project.
 
-- 🌱 I’m currently learning **Machine Learning** and **Deep Learning**.
+- 🌱 I’m currently learning **Machine Learning** and **Deep Learning** and **Web Developement**.
 
 - 📫 ***How to reach me***: Contact me directly on this mail [hrithik21sgh@gmail.com](mailto:hrithik21sgh@gmail.com).
 
