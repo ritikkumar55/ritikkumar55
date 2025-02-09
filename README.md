@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # Ritik Kumar
 
-[![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/ritik-kumar01/)
+[![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/ritikkrsingh01/)
 
 ### Hi there 👋
 
-I am Ritik Kumar. My main interest lies in Machine Learning and Data Science. I am always curious to learn something new.
+I am Ritik Kumar. My main interest lies in Machine Learning and Web Development. I am always curious to learn something new.
 
 
 
