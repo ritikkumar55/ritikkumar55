@@ -15,7 +15,7 @@ Always pushing boundaries in **software development** and exploring the ever-evo
 ---
 
 ### ⚡ Tech & Tools
-🖥️ **Languages:** JavaScript, Python, C++  
+🖥️ **Languages:** JavaScript, Python, Java 
 🎨 **Frontend:** HTML, CSS, React.js  
 🔧 **Backend:** Node.js, Express.js  
 🛢 **Databases:** MongoDB, Firebase  
