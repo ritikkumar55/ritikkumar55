@@ -1,4 +1,4 @@
-### 🌟 Welcome! I'm [Your Name]
+### 🌟 Welcome! I'm Ritik
 
 💡 **Curious Mind | Code Explorer | Lifelong Learner**
 
