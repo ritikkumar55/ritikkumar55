@@ -18,8 +18,8 @@ Always pushing boundaries in **software development** and exploring the ever-evo
 🖥️ **Languages:** JavaScript, Python, Java 
 🎨 **Frontend:** HTML, CSS, React.js  
 🔧 **Backend:** Node.js, Express.js  
-🛢 **Databases:** MongoDB, Firebase  
-🛠 **DevOps:** Docker, GitHub Actions  
+🛢 **Databases:** MongoDB, Firebase, Sql
+🛠 **DevOps:** Docker, Kubernetes  
 🔍 **Tools:** Git, VS Code, Postman  
 
 ---
@@ -33,8 +33,8 @@ Always pushing boundaries in **software development** and exploring the ever-evo
 
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ritikkumar55&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p> -->
+![ritikkumar55's Stats](https://github-readme-stats.vercel.app/api?username=ritikkumar55&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ritikkumar55)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikkumar55&show_icons=true&locale=en&layout=compact" alt="ritikkumar55" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumar55&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" /></p>
 <br><br>
